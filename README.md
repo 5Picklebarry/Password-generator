@@ -31,7 +31,3 @@ Contributions are welcome! If you have suggestions, enhancements, or issues to r
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to modify this template according to your project specifics or add more information if needed. This structure provides a clear outline of the project, its usage, features, and contribution guidelines.
