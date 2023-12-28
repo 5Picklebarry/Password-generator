@@ -1,5 +1,7 @@
 # Password Generator
 
+![Password Generator](https://media.discordapp.net/attachments/1182767912713469984/1189819018446655559/image.png?ex=659f8c4f&is=658d174f&hm=9b6b5c1577ab09a92d6391a603e3ef0d39897bf2c85a7ad265439f7bec40449b&=&format=webp&quality=lossless&width=781&height=408)
+
 This Python script generates strong and secure passwords to enhance your online security. The generated passwords consist of a combination of uppercase letters, lowercase letters, numbers, and special characters to maximize complexity.
 
 ## Usage
