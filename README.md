@@ -1,8 +1,8 @@
 # Password Generator
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://media.discordapp.net/attachments/1182767912713469984/1189819018446655559/image.png?ex=659f8c4f&is=658d174f&hm=9b6b5c1577ab09a92d6391a603e3ef0d39897bf2c85a7ad265439f7bec40449b&=&format=webp&quality=lossless&width=781&height=408" alt="Password Generator" style="width: 50%; height: auto; margin-left: 10px;">
-  <img src="https://media.discordapp.net/attachments/1189799636945358908/1189984126728687656/image.png?ex=65a02614&is=658db114&hm=69dbb3affa4f514721b8a230e450ef0163dac513b1d7c4dedddbc742a7707e76&=&format=webp&quality=lossless&width=667&height=604" alt="Image 2" style="width: 50%; height: auto; margin-right: 20px;">
+  <img src="https://media.discordapp.net/attachments/1182767912713469984/1189819018446655559/image.png?ex=659f8c4f&is=658d174f&hm=9b6b5c1577ab09a92d6391a603e3ef0d39897bf2c85a7ad265439f7bec40449b&=&format=webp&quality=lossless&width=781&height=408" alt="Password Generator" style="width: 50%; height: auto;">
+  <img src="https://media.discordapp.net/attachments/1189799636945358908/1189984126728687656/image.png?ex=65a02614&is=658db114&hm=69dbb3affa4f514721b8a230e450ef0163dac513b1d7c4dedddbc742a7707e76&=&format=webp&quality=lossless&width=667&height=604" alt="Image 2" style="width: 50%; height: auto;">
 </div>
 
 This Python script generates strong and secure passwords to enhance your online security. The generated passwords consist of a combination of uppercase letters, lowercase letters, numbers, and special characters to maximize complexity.
